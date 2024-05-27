@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Test.XUnit.Temperatura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94aa4a16bfcd431eb0f948a42bb0d9fbf6342702")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccdd996bcbf2a0dd4e844e9df71022d24d2daa0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Test.XUnit.Temperatura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Test.XUnit.Temperatura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
