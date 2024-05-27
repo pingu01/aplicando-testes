@@ -37,3 +37,4 @@ dotnet test Test.MSTest.Temperatura
 ```
 
 Output:
+![alt text](image-2.png)

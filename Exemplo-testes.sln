@@ -5,7 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.XUnit.Temperatura", "Test.XUnit.Temperatura\Test.XUnit.Temperatura.csproj", "{289C0879-DB63-479A-ADB8-9327400D936B}"
 EndProject
-
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.MSTest.Temperatura", "Test.MSTest.Temperatura\Test.MSTest.Temperatura.csproj", "{BC1ACEC7-B80B-42AA-A308-E3BCCBEC70A9}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.NUnit.Temperatura", "Test.NUnit.Temperatura\Test.NUnit.Temperatura.csproj", "{9A5EC5B1-0943-486E-9164-AD5357BB801D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperatura", "Temperatura\Temperatura.csproj", "{BCED60C1-2602-43C3-9A6A-3760A1CD9947}"
